@@ -1,0 +1,140 @@
+PS C:\Users\dindi> cd Desktop
+PS C:\Users\dindi\Desktop> mkdir Actividades
+
+
+    Directorio: C:\Users\dindi\Desktop
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+d-----     31/05/2023  10:37 p. m.
+
+
+PS C:\Users\dindi\Desktop\Actividades> mkdir "Deportes mentales"
+
+
+    Directorio:
+    C:\Users\dindi\Desktop\Actividades
+
+
+Mode                 LastWriteTime       Length
+----                 -------------       ------ 
+d-----     31/05/2023  10:40 p. m.
+
+PS C:\Users\dindi\Desktop\Actividades> cd deportes de Equipos
+
+PS C:\Users\dindi\Desktop\Actividades\Deportes de Equipos> ni Basquet
+
+
+    Directorio: C:\Users\dindi\Desktop\Activida 
+    des\Deportes de Equipos
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+-a----     31/05/2023  10:51 p. m.            0
+
+PS C:\Users\dindi\Desktop\Actividades\Deportes de Equipos> ni "Ping_pong"
+
+
+    Directorio: C:\Users\dindi\Desktop\Activida 
+    des\Deportes de Equipos
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+-a----     31/05/2023  10:56 p. m.            0 
+
+
+PS C:\Users\dindi\Desktop\Actividades\Deportes de Equipos> cd ..
+PS C:\Users\dindi\Desktop\Actividades> ls -R
+
+
+    Directorio:
+    C:\Users\dindi\Desktop\Actividades
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+d-----     31/05/2023  10:39 p. m.
+d-----     31/05/2023  10:56 p. m.
+d-----     31/05/2023  10:55 p. m.
+d-----     31/05/2023  10:39 p. m.
+d-----     31/05/2023  10:40 p. m.
+
+
+    Directorio: C:\Users\dindi\Desktop\Activida 
+    des\Deportes de Equipos
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+-a----     31/05/2023  10:51 p. m.            0 
+-a----     31/05/2023  10:56 p. m.            0 
+
+
+    Directorio: C:\Users\dindi\Desktop\Activida 
+    des\Deportes de mesa
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+-a----     31/05/2023  10:55 p. m.            0 
+
+PS C:\Users\dindi\Desktop\Actividades> ls
+
+
+    Directorio: 
+    C:\Users\dindi\Desktop\Actividades
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+d-----     31/05/2023  10:39 p. m.
+d-----     31/05/2023  10:56 p. m.
+d-----     31/05/2023  10:55 p. m.
+d-----     31/05/2023  10:39 p. m.
+d-----     31/05/2023  10:40 p. m.
+
+
+PS C:\Users\dindi\Desktop\Actividades> ls -R
+
+
+    Directorio:
+    C:\Users\dindi\Desktop\Actividades
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+d-----     31/05/2023  10:39 p. m.
+d-----     31/05/2023  10:56 p. m.
+d-----     31/05/2023  10:55 p. m.
+d-----     31/05/2023  10:39 p. m.
+d-----     31/05/2023  10:40 p. m.
+
+
+    Directorio: C:\Users\dindi\Desktop\Activida 
+    des\Deportes de Equipos
+
+
+Mode                 LastWriteTime       Length 
+----                 -------------       ------ 
+-a----     31/05/2023  10:51 p. m.            0 
+-a----     31/05/2023  10:56 p. m.            0 
+
+
+    Directorio: C:\Users\dindi\Desktop\Activida 
+    des\Deportes de mesa
+
+
+Mode                 LastWriteTime       Length 
+-a----     31/05/2023  10:55 p. m.            0
+
+
+PS C:\Users\dindi\Desktop\Actividades> rm -r "Deportes extremos"     
+PS C:\Users\dindi\Desktop\Actividades> pwd
+
+Path
+----
+C:\Users\dindi\Desktop\Actividades
+
